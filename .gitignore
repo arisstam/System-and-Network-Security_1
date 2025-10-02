@@ -1,0 +1,5 @@
+*.log          # Ignore any log files
+*.env          # Ignore environment files (API keys, passwords)
+__pycache__/   # Ignore Python cache folders
+.DS_Store      # macOS hidden system files
+node_modules/  # Ignore Node.js modules folder (if using Node)
